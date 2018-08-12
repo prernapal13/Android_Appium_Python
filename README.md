@@ -3,7 +3,7 @@ Android automation using Appium and Python (Sample Project)
 
 
 # Description
-This is a sample android automation framework, implemented using Java, Appium/Webdriver and TestNG. Page Object Model (POM) is used to make the code more readable, maintainable, and reusable. This sample project is properperly structured and can be used for learning purposes.
+This is a sample android automation framework, implemented using Java, Appium/Webdriver and TestNG. Page Object Model (POM) is used to make the code more readable, maintainable, and reusable. This sample project is properly structured and can be used for learning purposes.
 
 # Pre-Requisites:
 1. Android Studio, python setup must be done.
